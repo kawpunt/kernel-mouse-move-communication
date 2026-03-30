@@ -1,0 +1,1 @@
+C:\Users\urhgte\Desktop\kernel\kernel-driver-PTE-HOOK-PIDDB-read-write-CleanAllTraces--main\kulzlx dirver\x64\Release\driver.sys

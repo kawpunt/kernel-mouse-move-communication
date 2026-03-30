@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  kulzlx_user.vcxproj -> C:\Users\urhgte\Desktop\kernel\kernel-driver-PTE-HOOK-PIDDB-read-write-CleanAllTraces--main\kulzlx user\x64\Release\kulzlx_user.exe
