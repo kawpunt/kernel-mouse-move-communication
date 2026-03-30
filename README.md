@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <span style="color:#b86bff;">Payson</span></h1>
+<h1 align="center">Hey, I'm <span style="color:#b86bff;">Achira</span></h1>
 <h3 align="center">Software Engineer&nbsp;|&nbsp;Systems Developer&nbsp;|&nbsp;7 Years of Experience</h3>
 
 <p align="center">
